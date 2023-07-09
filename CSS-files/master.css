@@ -17,6 +17,23 @@ first no start any identifier with no numbers
 we use the kabebcase that means
 user-test -> like that 
 */
+.div-p1{
+    font-size: 20;
+    padding-top:1px;
+color: white
+}
+.div-p2{
+    font-size: 15;
+    color: white;
+
+    padding-top: 1px;
+}
+div{
+    padding: 10px ;
+    background-color: blue;
+ 
+}
+
 
 p{
     color: red;
