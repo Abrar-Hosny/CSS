@@ -1,3 +1,34 @@
-P{
-    color: #00f;;
+/*
+CSS We write it as following
+Selector {  // selector -> what we want to customized
+    property : value ;   -> ; between property and another one
+
+    
+}
+
+Selector can be : 
+1- element -> p this means that target all the the p in the html page
+2- class -> before we put . 
+3- id -> that not used for css we use class when we use id we use #
+ctrl + / comment
+*/
+/* 
+first no start any identifier with no numbers
+we use the kabebcase that means
+user-test -> like that 
+*/
+
+p{
+    color: red;
+    font-size: 50px;
+}
+.one{
+
+    color: blue;
+font-size: 50px;
+}
+
+#two{
+    color: brown;
+    font-size: 50px;
 }
