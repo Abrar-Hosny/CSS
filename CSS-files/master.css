@@ -17,6 +17,17 @@ first no start any identifier with no numbers
 we use the kabebcase that means
 user-test -> like that 
 */
+/* 
+how padding is working the things that is facing each other that is good 
+top - right -bottom - left 
+top = bottom 
+right = left 
+no padding = 0 px
+or specifiy padding 
+padding no minus
+padding using precentage
+
+*/
 .div-p1{
     font-size: 20;
     padding-top:1px;
@@ -31,6 +42,7 @@ color: white
 div{
     padding: 10px ;
     background-color: blue;
+
  
 }
 
