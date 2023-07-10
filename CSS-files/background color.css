@@ -1,0 +1,17 @@
+/* 
+background color : sold color like (red - black -blue)
+background-color : rgb() 0 -> 255 and A is the anticity  0 0 0->black 
+255 255 255 -> white
+background-color : hexa color -> #00 red 00 green 00 blue And FF is the extreme color
+background-image : url()
+background-repeat:repeat -> default value repeat in all directions
+background-repeat : no-repeat 
+repeat-x 
+repeat-y
+*/
+div{
+    background-color: blue;
+    background-image: url(../img/download.jpg);
+    background-repeat:no-repeat;
+
+}
